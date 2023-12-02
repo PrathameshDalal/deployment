@@ -1,0 +1,8 @@
+transformers
+evaluate
+torch
+ipywidgets
+accelerate
+decord
+pytorchvideo
+mysql-connector-python
