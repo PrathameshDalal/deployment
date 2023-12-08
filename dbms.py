@@ -1,6 +1,5 @@
 
 import torch
-import mysql.connector
 import pytorchvideo.data
 import os
 from transformers import VivitImageProcessor, VivitForVideoClassification
