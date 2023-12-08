@@ -141,3 +141,4 @@ while(count<10):
     if nature != 'Normal':
         count = count + 1
         print(f"Predicted class: {nature}, risk level: {rl}")
+        display_gif(sample_test_video['video'])
